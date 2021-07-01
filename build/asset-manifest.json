@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.4b976bea.chunk.css",
+    "main.js": "/static/js/main.e45a0ec7.chunk.js",
+    "main.js.map": "/static/js/main.e45a0ec7.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a980e6ae.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a980e6ae.js.map",
+    "static/css/2.d45d6843.chunk.css": "/static/css/2.d45d6843.chunk.css",
+    "static/js/2.da5edb59.chunk.js": "/static/js/2.da5edb59.chunk.js",
+    "static/js/2.da5edb59.chunk.js.map": "/static/js/2.da5edb59.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.d45d6843.chunk.css.map": "/static/css/2.d45d6843.chunk.css.map",
+    "static/css/main.4b976bea.chunk.css.map": "/static/css/main.4b976bea.chunk.css.map",
+    "static/js/2.da5edb59.chunk.js.LICENSE.txt": "/static/js/2.da5edb59.chunk.js.LICENSE.txt",
+    "static/media/Rectangle3.d85eb51e.png": "/static/media/Rectangle3.d85eb51e.png",
+    "static/media/Rectangle4.68da7a10.png": "/static/media/Rectangle4.68da7a10.png",
+    "static/media/Rectangle5.542fae90.png": "/static/media/Rectangle5.542fae90.png",
+    "static/media/Rectangle_2.8f785c9d.png": "/static/media/Rectangle_2.8f785c9d.png",
+    "static/media/abstract.78d9fa04.png": "/static/media/abstract.78d9fa04.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a980e6ae.js",
+    "static/css/2.d45d6843.chunk.css",
+    "static/js/2.da5edb59.chunk.js",
+    "static/css/main.4b976bea.chunk.css",
+    "static/js/main.e45a0ec7.chunk.js"
+  ]
+}
